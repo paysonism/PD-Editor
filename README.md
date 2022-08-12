@@ -1,13 +1,17 @@
 <a name="readme-top"></a>
 
 
-
+<div class="shields">
 <!-- PROJECT SHIELDS -->
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
+</div>
 
+<style>
+  text-align: center;
+</style>
 
 
 <!-- PROJECT LOGO -->
