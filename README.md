@@ -1,52 +1,35 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
 
 
 
 <!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/P-DennyGamingYT/PD-Editor">
+    <img src="assets/images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">PD-Editor</h3>
 
   <p align="center">
-    project_description
+    The #1 Free Lua Editor.
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/P-DennyGamingYT/PD-Editor"><strong>Read »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/P-DennyGamingYT/PD-Editor/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+        <a href="https://p-dennygamingyt.github.io/PD-Editor">Website</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://dsc.gg/PDennSploit">Discord</a>
   </p>
 </div>
 
@@ -65,14 +48,12 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
@@ -83,9 +64,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Preview][product-screenshot]](https://p-dennygamingyt.github.io/PD-Editor)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+PD-Editor is the #1 choice for a free Lua editor. Whether you are using it for a Lua IDE or an exploit, PD-Editor should be the first choice for your app. PD-Editor not only looks good and is modern, but it's completely free! Visit our [website](https://p-dennygamingyt.github.io/PD-Editor) for a video installation tutorial.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -93,14 +74,9 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* [![HTML][Next.js]][Next-url]
+* [![JS][React.js]][React-url]
+* [![CSS][Vue.js]][Vue-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -109,32 +85,15 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+Getting Started with PD-Editor is easy! Just go to our [website](https://p-dennygamingyt.github.io/PD-Editor) and find the code and video tutorialon how to add PD-Editor to your C# application!
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+1. Download this repo as a .ZIP file.
+2. Extract the download .ZIP file.
+3. You now have PD-Editor!
+
+To learn how to add PD-Editor into your C# Application, please refer to our [website](https://p-dennygamingyt.github.io/PD-Editor)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -143,13 +102,13 @@ This is an example of how to list things you need to use the software and how to
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-PD-Editor is one of the best choices for a lua text editor, to learn how to add PD-Editor into your C# Roblox exploit, please refer to the [website](https://p-dennygamingyt.github.io/PD-Editor)
+PD-Editor is one of the best choices for a lua text editor, to learn how to add PD-Editor into your C# Application, please refer to our [website](https://p-dennygamingyt.github.io/PD-Editor)
 
 Here are some previews of what the editor looks like.
 
 ![Preview](/assets/images/preview.png "Preview")
 ![Preview w/ minimap](/assets/images/preview-minimap.png "Preview w/ Minimap")
-[Video](https://cdn.discordapp.com/attachments/909454431035228181/1007706860238950511/PD-Editor_Preview.mp4?size=4096)
+[Video Preview](https://cdn.discordapp.com/attachments/909454431035228181/1007706860238950511/PD-Editor_Preview.mp4?size=4096)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -213,7 +172,6 @@ Project Link: [https://github.com/P-DennyGamingYT/PD-Editor](https://github.com/
 Thanks to all of you that helped me during the development of PD-Editor.
 * [Roblox Developer Forums]()
 * [Microsoft](https://microsoft.github.io/monaco-editor)
-* []()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -221,32 +179,32 @@ Thanks to all of you that helped me during the development of PD-Editor.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo_name/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[contributors-shield]: https://img.shields.io/github/contributors/P-DennyGamingYT/PD-Editor.svg
+[contributors-url]: https://github.com/P-DennyGamingYT/PD-Editor/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/P-DennyGamingYT/PD-Editor.svg
+[forks-url]: https://github.com/P-DennyGamingYT/PD-Editor/network/members
+[stars-shield]: https://img.shields.io/github/stars/P-DennyGamingYT/PD-Editor.svg
+[stars-url]: https://github.com/P-DennyGamingYT/PD-Editor/stargazers
+[issues-shield]: https://img.shields.io/github/issues/P-DennyGamingYT/PD-Editor.svg
+[issues-url]: https://github.com/P-DennyGamingYT/PD-Editor/issues
+[license-shield]: https://img.shields.io/github/license/P-DennyGamingYT/PD-Editor.svg
+[license-url]: https://github.com/P-DennyGamingYT/PD-Editor/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
-[product-screenshot]: images/screenshot.png
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[Vue-url]: https://vuejs.org/
-[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
+[product-screenshot]: assets/images/preview.png
+[Next.js]: https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white
+[Next-url]: https://en.wikipedia.org/wiki/HTML5
+[React.js]: https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=yellow
+[React-url]: https://en.wikipedia.org/wiki/JavaScript
+[Vue.js]: https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white
+[Vue-url]: https://en.wikipedia.org/wiki/CSS
+[Angular.io]: https://img.shields.io/badge/Angular-DD0031&logo=angular&logoColor=white
 [Angular-url]: https://angular.io/
-[Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
+[Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55&logo=svelte&logoColor=FF3E00
 [Svelte-url]: https://svelte.dev/
-[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
+[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20&logo=laravel&logoColor=white
 [Laravel-url]: https://laravel.com
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
+[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
