@@ -54,7 +54,7 @@
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#contact">Contact</a></li>
+    <li><a href="#contact">Credits</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
@@ -156,7 +156,7 @@ Copyright &copy; 2022 - PDennSploit Softworks
 
 
 <!-- CONTACT -->
-## Contact
+## Credits
 
 [Payson Holmes](https://github.com/P-DennyGamingYT) - [@[YT]P-Denny#7313](https://discord.gg/users/820680923887566868) - [paysonholmes@gmail.com](mailto:paysonholmes@gmail.com)
 
