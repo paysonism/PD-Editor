@@ -147,9 +147,9 @@ PD-Editor is one of the best choices for a lua text editor, to learn how to add 
 
 Here are some previews of what the editor looks like.
 
-![Preview](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
-![Preview w/ minimap](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
-<video src="https://cdn.discordapp.com/attachments/909454431035228181/1007706860238950511/PD-Editor_Preview.mp4?size=4096"></video>
+![Preview](/assets/images/preview.png "Preview")
+![Preview w/ minimap](/assets/images/preview-minimap.png "Preview w/ Minimap")
+[Video](https://cdn.discordapp.com/attachments/909454431035228181/1007706860238950511/PD-Editor_Preview.mp4?size=4096)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
