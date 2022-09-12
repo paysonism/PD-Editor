@@ -27,7 +27,7 @@
     <br />
     <a href="https://github.com/P-DennyGamingYT/PD-Editor/issues">Report Bug</a>
     ·
-        <a href="https://p-dennygamingyt.github.io/PD-Editor">Website</a>
+        <a href="https://p-dennygamingyt.github.io/PD-Editor/Editor.html">Preview</a>
     ·
     <a href="https://dsc.gg/PDennSploit">Discord</a>
   </p>
