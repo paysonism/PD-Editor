@@ -142,6 +142,16 @@ Don't forget to give the project a star! Thanks!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+Alternatively (faster), you can make a fork of the project, add your feature or changes, then DM me on discord with the format below.
+
+Title: PD Editor - (Proposed Change)
+Description: (description of your changes)
+GitHub: (link to your version)
+
+Make sure to mention me (@[YT]P-Denny) so I see it faster!
+
+Discord: [@[YT]P-Denny#7313](https://discord.gg/users/820680923887566868) 
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
