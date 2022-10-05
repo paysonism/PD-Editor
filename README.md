@@ -158,13 +158,13 @@ Example:
 					cursorSmoothCaretAnimation: true, - Toggles smooth cursor animations.
 					foldingHighlight: false, - Toggles folding highlighting.
 					fontLigatures: true, - Toggles font ligatures.
-					formatOnPaste: true,
-					showDeprecated: true,
+					formatOnPaste: true, - Toggles whether to format code when pasted or opened.
+					showDeprecated: true, - Toggles whether to show depreciated code.
 					suggest: {
-						snippetsPreventQuickSuggestions: false,
+						snippetsPreventQuickSuggestions: false, - Toggles whether to prevent quick suggestions.
 					},
 					padding: {
-						top: 24,
+						top: 24, - The editor top padding value.
 					}
 ```
 
