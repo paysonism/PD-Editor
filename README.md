@@ -17,7 +17,7 @@
     <img src="assets/images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">PD-Editor</h3>
+<h3 align="center">PD Editor</h3>
 
   <p align="center">
     The #1 Free Lua Editor.
@@ -52,6 +52,7 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
+    <li><a href="#config"></a>Config</li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#contact">Credits</a></li>
@@ -112,6 +113,60 @@ Here are some previews of what the editor looks like.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- CONFIG EXAMPLES -->
+
+PD-Editor is extremely customizable and you can change plenty of settings. Below you can find some examples on how to change or configure PD Editor
+to your liking!
+
+```html5
+9: --url: url(""); - Displays linked image as the background of the editor.
+
+Example: 
+
+9: --url: url("https://c.tenor.com/LEnMt_4nwEYAAAAC/abstract-astronauts.gif");
+```
+```html5
+95-201: ( big code ) - Allows you to change the colors or other variables in the theme presets (in rgb color settings).
+
+Example:
+
+113: { token: 'comment', foreground: '3517635' }, - Changes the comment color to green.
+```
+```html5
+214: value: '-- PD Editor Made By Payson Holmes' - The default or startup text of the editor.
+
+Example:
+
+214: value: '-- Startup text here\n\n-- Made By Payson Holmes' - Use \n as linebreaks.
+```
+```html5
+216-239: 
+
+          theme: "PDark", - The current editor theme (from theme list).
+					fontSize: "14px", - The font size of the editor.
+					fontFamily: "'JetBrains Mono', Consolas, 'Courier New', monospace", - The current editor font.
+					folding: true, - Toggles whether folding is enabled or not.
+					dragAndDrop: true, - Toggles whether you can drag and drop files into the editor.
+					links: true, - Toggles whether link highlighting is enabled.
+					minimap: {
+						enabled: false, - Toggles whether to show the minimap.
+					},
+					showFoldingControls: "always", - Toggles whether to show folding controls
+					smoothScrolling: true, - Toggles smooth scrolling.
+					stopRenderingLineAfter: 6500, - The number of lines to render when a file is opened.
+					cursorBlinking: "smooth", - Cursor blinking animation.
+					cursorSmoothCaretAnimation: true, - Toggles smooth cursor animations.
+					foldingHighlight: false, - Toggles folding highlighting.
+					fontLigatures: true, - Toggles font ligatures.
+					formatOnPaste: true,
+					showDeprecated: true,
+					suggest: {
+						snippetsPreventQuickSuggestions: false,
+					},
+					padding: {
+						top: 24,
+					}
+```
 
 
 <!-- ROADMAP -->
@@ -120,7 +175,7 @@ Here are some previews of what the editor looks like.
 - [X] Smooth Scrolling
 - [X] Smooth Cursor Animations
 - [X] Custom Themes
-    - [ ] Ease of Access
+- [X] Ease of Access
 
 See the [open issues](https://github.com/P-DennyGamingYT/PD-Editor/issues) for a full list of proposed features (and known issues).
 
