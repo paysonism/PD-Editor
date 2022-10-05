@@ -140,9 +140,7 @@ Example:
 214: value: '-- Startup text here\n\n-- Made By Payson Holmes' - Use \n as linebreaks.
 ```
 ```html5
-216-239: 
-
-          theme: "PDark", - The current editor theme (from theme list).
+216-239: 				theme: "PDark", - The current editor theme (from theme list).
 					fontSize: "14px", - The font size of the editor.
 					fontFamily: "'JetBrains Mono', Consolas, 'Courier New', monospace", - The current editor font.
 					folding: true, - Toggles whether folding is enabled or not.
@@ -167,7 +165,21 @@ Example:
 						top: 24, - The editor top padding value.
 					}
 ```
+```html5
+324-334:		SetTheme = function (themeName) { - If you created a custom theme make sure to add it here so that you can use it!
+				if (themeName == 'PDark') {
+					monaco.editor.setTheme('PDark') - Custom PD Editor theme
+				}
+				if (themeName == "Dark") {
+					monaco.editor.setTheme("net-theme-dark"); - Dark Theme
+				}
+				if (themeName == "Light") {
+					monaco.editor.setTheme("net-theme-light"); - Light Theme
+				}
+			}
+```
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ROADMAP -->
 ## Roadmap
