@@ -29,7 +29,7 @@
     ·
         <a href="https://p-dennygamingyt.github.io/PD-Editor/Editor.html">Preview</a>
     ·
-    <a href="https://dsc.gg/PDennSploit">Discord</a>
+    <a href="https://dsc.gg/PDennSploit">Discord Server</a>
   </p>
 </div>
 
@@ -180,8 +180,8 @@ Project Link: [https://github.com/P-DennyGamingYT/PD-Editor](https://github.com/
 ## Acknowledgments
 
 Thanks to all of you that helped me during the development of PD-Editor.
-* [Roblox Developer Forums]()
-* [Microsoft](https://microsoft.github.io/monaco-editor)
+* [Roblox Developer Forums](https://devforum.roblox.com/)
+* [Microsoft](https://microsoft.github.io/monaco-editor/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
