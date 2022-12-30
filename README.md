@@ -226,7 +226,7 @@ Discord: [@[YT]P-Denny#7313](https://discord.gg/users/820680923887566868)
 <!-- LICENSE -->
 ## License
 
-Copyright &copy; 2022 - PDennSploit Softworks
+Copyright &copy; 2023 - PDennSploit Softworks
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
